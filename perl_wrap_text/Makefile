@@ -1,3 +1,5 @@
+all: tests
+
 clean:
 	find . -name '*~' -delete
 
